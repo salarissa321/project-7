@@ -1,0 +1,112 @@
+
+body{
+    font-weight: 400;
+    font-family: "Avenir LT W01_65 Medium1475532";
+}
+
+.mynav {
+    padding: 0px;
+    line-height: 51px;
+    font-size: 16px;
+    color: #101530;
+    margin: 0 40px;
+    }
+
+.mycronik{
+    color:#6ABDFC;
+font-size: 30px;
+font-weight: 500;
+margin-right: 70px;
+
+}
+
+.mybanner {
+color: black;
+margin-left: 30px;
+}
+
+
+.mybanner1{
+    color:#6ABDFC;
+    margin-left: 300px; 
+}
+
+
+.mylink{
+    width: 150px;
+line-height: 51px;
+color: white;
+text-align: center;
+font-size: 16px;
+border-radius: 25px;
+background-color:#6ABDFC ;
+text-decoration: none;
+}
+
+.myh2{
+    font-size: 50px;
+line-height: 70px;
+color: #101530;
+font-weight: 800;
+}
+
+.mypara{
+    font-family: "Avenir LT W01_65 Medium1475532";
+color: #8890a3;
+font-size: 18px;
+font-weight: 400;
+}
+
+
+.mynumber{
+    font-size: 75px;
+padding: 68px 0 7px;
+color: #66a6ff;
+font-weight: 600;
+}
+
+.myschrift{
+    font-family: 'Avenir-Black';
+font-size: 50px;
+line-height: 62px;
+font-weight: 700;
+margin-top: 150px;
+margin-right: 80px;
+}
+
+
+.myschrift1{
+    font-family: 'Avenir-Black';
+    font-size: 50px;
+    line-height: 62px;
+    font-weight: 700;
+    margin-top: 150px;
+    margin-right: 80px;
+     
+}
+
+
+.mypara1{
+    font-family: "Avenir LT W01_65 Medium1475532";
+    color: #8890a3;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 160px;
+}
+
+
+.myimg{
+    padding-left: 150px;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
