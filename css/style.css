@@ -99,6 +99,26 @@ margin-right: 80px;
     padding-left: 150px;
 }
 
+.mybtn{
+    color: #66a6ff;
+    width: 215px;
+    line-height: 53px;
+    text-align: center;
+    border: 1px solid #dee0e7;
+    border-radius: 27px;
+    font-size: 16px;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    background-color: transparent;
+    margin-left: 180px;
+}
+
+.mybtn:hover{
+    background-color: #66a6ff;
+    color: white;
+}
+
 
 
     
